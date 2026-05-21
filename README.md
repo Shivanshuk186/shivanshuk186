@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Shivanshu 👋
 
-<!--
-**Shivanshuk186/shivanshuk186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech AIML student exploring software engineering, AI systems, and scalable applications.
 
-Here are some ideas to get you started:
+##  What I'm Currently Working On
+- Building AI-powered applications using RAG, agents, and local LLMs
+- Learning advanced LLM systems, fine-tuning, memory frameworks, and agentic AI
+- Exploring observability, evals, RL fine-tuning, and multimodal agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+- Languages: Python, JavaScript, Java, C++, SQL
+- AI/ML: PyTorch, scikit-learn, RAG, Hugging Face
+- Backend: Node.js, Express.js
+- Frontend: React
+- Databases: PostgreSQL, MongoDB, MySQL
+- Tools: Docker, Git, Postman, VS Code, Linux
+
+##  Projects
+- BrainDocs AI — RAG-based document Q&A system
+- Echo Doc AI — AI voice medical assistant
+- AI automation & agent-based systems
+
+## 📫 Reach Me
+- Email: shivanshuk186@gmail.com
+- LinkedIn: linkedin.com/in/shivanshuk186
