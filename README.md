@@ -1,6 +1,6 @@
 # Hey, I'm Shivanshu 👋
 
-B.Tech AIML student exploring software engineering, AI systems, and scalable applications.
+B.Tech AI&ML student exploring software engineering, AI systems, and scalable applications.
 
 ##  What I'm Currently Working On
 - Building AI-powered applications using RAG, agents, and local LLMs
